@@ -18,8 +18,8 @@
 	background-size:cover ;
 }
 .container{
-	height: 350px;
-	width: 250px;
+	height: 400px;
+	width: 300px;
 	box-shadow: 0px 0px 5px grey;
 	border-radius: 30px;
 	padding: 20px;
@@ -27,8 +27,8 @@
 	backdrop-filter: blur(3px);
 }
 .heading{
-	color: royalblue;
-  text-shadow: 0px 0px 5px blue;
+	color: black;
+  text-shadow: 0px 0px 5px white;
 	font-family: Arial Black;
 	font-size: 25px;
 	text-align: center;
